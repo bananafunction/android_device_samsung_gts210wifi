@@ -12,6 +12,6 @@ ro.radio.noril=yes
 ro.carrier=wifi-only
 
 # Vendor security patch level
-ro.vendor.build.security_patch=2018-06-01
+ro.vendor.build.security_patch=2018-01-01
 # Lineage vendor security patch level (will be displayed)
 ro.lineage.build.vendor_patch=2019-08-01
